@@ -25,4 +25,12 @@
 	</section>
 	<section name="quick_assist_proposal_size">
 	</section>
+	<section name="nls_accessor_history">
+		<section name="0">
+			<item key="accessorName" value="Messages"/>
+			<item key="accessorPackage" value="=ApiTesting/src=/optional=/true=/=/maven.pomderived=/true=/&lt;"/>
+			<item key="bundleName" value="messages.properties"/>
+			<item key="bundlePackage" value="=ApiTesting/src=/optional=/true=/=/maven.pomderived=/true=/&lt;"/>
+		</section>
+	</section>
 </section>
